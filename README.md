@@ -1,6 +1,6 @@
 # 📝 My To-Do App
 
-Une simple **To-Do List** développée pour m'entraîner avec Python et PyQt6.
+Une simple **To-Do List** développée pour m'entraîner avec Python et PySide6
 
 ## 📸 Aperçu
 ![To-Do App Screenshot](image.png)
@@ -12,7 +12,7 @@ Une simple **To-Do List** développée pour m'entraîner avec Python et PyQt6.
 
 ## 🛠 Technologies utilisées
 - Python
-- PyQt6
+- PySide6
 
 ## 📦 Installation
 1. **Cloner le dépôt** :
@@ -30,4 +30,4 @@ pip install -r requirements.txt
 
 🎯 Objectif
 
-Ce projet a été créé uniquement pour l'apprentissage et l'expérimentation. Rien de fou, mais utile pour comprendre PyQt6. 😁
+Ce projet a été créé uniquement pour l'apprentissage et l'expérimentation. Rien de fou, mais utile pour comprendre PySide6. 😁
